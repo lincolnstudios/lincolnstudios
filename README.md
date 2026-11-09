@@ -2,7 +2,7 @@
 
 **UX and product design leader · AI transformation · Enterprise design systems**
 
-Mathew Lincoln leads multidisciplinary teams and builds products from concept through release. His work spans enterprise design systems, AI-assisted workflows, mobile apps, and connected hardware. At Albertsons Companies, he led 25+ direct reports and built a unified design system adopted by 100+ teams. Through Lincoln Studios, he brings the same hands-on approach to independent products, from interface design and engineering to testing and launch.
+Mathew Lincoln leads multidisciplinary teams and builds products from concept through release. His work spans enterprise design systems, AI-assisted workflows, mobile apps, and connected hardware. At Albertsons Companies, he led 25+ direct reports and built a unified design system adopted by 100+ teams. As founder of [Lincoln Studios LLC](https://github.com/Lincoln-Studios-LLC), he designs, engineers, tests, and launches independent products.
 
 [Portfolio](https://mathew-lincoln.com/) · [Résumé](https://mathew-lincoln.com/resume/) · [LinkedIn](https://www.linkedin.com/in/lincolnstudios/)
 
